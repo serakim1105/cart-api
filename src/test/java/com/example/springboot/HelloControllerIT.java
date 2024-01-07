@@ -1,4 +1,4 @@
-package com.example.springboot;
+package src.test.java.com.example.springboot;
 
 import org.junit.jupiter.api.Test;
 
