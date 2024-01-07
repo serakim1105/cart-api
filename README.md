@@ -9,5 +9,5 @@ This project is built on the foundation provided by the [gs-spring-boot](https:/
 ## Original Source
 
 - Original Repository: [gs-spring-boot](https://github.com/spring-guides/gs-spring-boot.git)
-- Original License: [Spring Framework License](https://github.com/spring-guides/gs-spring-boot/blob/main/LICENSE)
+- Original License: [Spring Framework License](https://github.com/spring-guides/gs-spring-boot/blob/main/LICENSE.txt)
 
